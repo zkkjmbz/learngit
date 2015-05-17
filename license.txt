@@ -1,0 +1,5 @@
+29ea68d HEAD@{0}: reset: moving to 29ea
+75ee989 HEAD@{1}: reset: moving to HEAD^
+29ea68d HEAD@{2}: commit: append GPL
+75ee989 HEAD@{3}: commit: add a line distributed
+88dade2 HEAD@{4}: commit (initial): first
